@@ -1,0 +1,38 @@
+src/
+│
+├── assets/
+│   └── (static files like images, icons)
+│
+├── components/
+│   ├── AddTodo.js
+│   ├── TodoItem.js
+│   └── TodoList.js
+│
+├── core/
+│   ├── entities/
+│   │   └── Todo.js
+│   ├── use-cases/
+│   │   ├── AddTodo.js
+│   │   ├── DeleteTodo.js
+│   │   ├── GetTodos.js
+│   │   └── UpdateTodo.js
+│   └── repositories/
+│       └── TodoRepository.js
+│
+├── services/
+│   └── ApiService.js
+│
+├── store/
+│   ├── actions/
+│   │   └── todoActions.js
+│   ├── reducers/
+│   │   └── todoReducer.js
+│   └── store.js
+│
+├── views/
+│   └── TodoApp.js
+│
+├── App.js
+├── index.js
+└── styles/
+    └── styles.css
