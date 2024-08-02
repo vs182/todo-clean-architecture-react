@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Recent Update
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Search functionality added.
 
 ## Available Scripts
 
